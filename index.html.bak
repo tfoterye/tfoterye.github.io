@@ -21,12 +21,12 @@
 			<div id="code">
 				<span class="comments">/**</span><br />
 				<span class="space"/><span class="comments">* We are both meteorology programmers,</span><br />
-				<span class="space"/><span class="comments">* so I write some code to celebrate our 1st anniversary.</span><br />
+				<span class="space"/><span class="comments">* so I write some code to record our amativeness.</span><br />
 				<span class="space"/><span class="comments">*/</span><br />
 				Boy i = <span class="keyword">new</span> Boy(<span class="string">"Erye"</span>);<br />
 				Girl u = <span class="keyword">new</span> Girl(<span class="string">"Jianing"</span>);<br />
-				<span class="comments">// May 04, 2018, I first met u in Wechat. </span><br />
-				<span class="comments">// May 20, 2018, I first met u in Beijing. </span><br />
+				<span class="comments">// Dec 20, 2017, I first met u in Nanjing. </span><br />
+				<span class="comments">// Oct 11, 2018, I met u again in Nanjing. </span><br />
 				<span class="comments">// I held ur hand and told u I love u </span><br />
 				i.love(u);<br />
 				<span class="comments">// Luckily, u accepted and became my girlfriend eversince.</span><br />
@@ -36,7 +36,7 @@
 				<span class="comments">// And take care of u and our love.</span><br />
 				i.takeCareOf(u);<br />
 				<span class="comments">// You say that you won't be so easy to love you forever.</span><br />
-				<span class="comments">// So I keep waiting and I have confidence that you will.</span><br />
+				<span class="comments">// So I keep waiting and I have confidence that I will.</span><br />
 				<span class="keyword">boolean</span> isHesitate = <span class="keyword">true</span>;<br />
 				<span class="keyword">while</span> (isHesitate) {<br />
 				<span class="placeholder"/>i.waitFor(u);<br />
@@ -64,16 +64,16 @@
 		</div>
 		<div id="copyright">
 			Inspired by <a href="http://www.openrise.com/lab/FlowerPower/">FlowerPower</a> project.<br />
-			Copyright © 2018 <a href='https://tfoterye.github.io/'>tfoterye.github.io</a> 2018-2018
+			Copyright © 2018 <a href='https://tfoterye.github.io/'>tfoterye.github.io</a> 2018-2099
 		</div>
 	</div>
 	<script type="text/javascript">
 		var offsetX = $("#loveHeart").width() / 2;
 		var offsetY = $("#loveHeart").height() / 2 - 55;
 		var together = new Date();
-		together.setFullYear(2018, 5, 4);
-		together.setHours(13);
-		together.setMinutes(10);
+		together.setFullYear(2018, 10, 11);
+		together.setHours(08);
+		together.setMinutes(30);
 		together.setSeconds(0);
 		together.setMilliseconds(0);
 		
